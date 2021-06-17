@@ -1,0 +1,1 @@
+This folder conatins .ipynp file with analystics and Machine Learning Model by XGBoost for use case.
